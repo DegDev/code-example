@@ -68,5 +68,10 @@ class UsersController {
 
             return redirect('retrive');
         }
+
+
+        Message::add('error', "Error sending e-mail, try again later...");
+
+            return redirect('retrive');
     }
 }
