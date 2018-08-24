@@ -5,7 +5,8 @@ namespace App\Models;
 use App\Core\App;
 use App\Core\Cipher;
 
-class User {
+class User 
+{
     /**
      * User email
      *
