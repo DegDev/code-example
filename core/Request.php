@@ -2,7 +2,8 @@
 
 namespace App\Core;
 
-class Request {
+class Request 
+{
     /**
      * Fetch the request URI.
      *
