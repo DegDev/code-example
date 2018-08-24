@@ -2,7 +2,8 @@
 
 namespace App\Core;
 
-class Router {
+class Router 
+{
     /**
      * All registered routes.
      *
