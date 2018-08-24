@@ -2,7 +2,8 @@
 
 namespace App\Core;
 
-class Message {
+class Message 
+{
     /**
      *  Adding message to application
      *
