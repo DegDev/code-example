@@ -2,7 +2,8 @@
 
 namespace App\Controllers;
 
-class PagesController {
+class PagesController 
+{
     /**
      * Show the home ( add phone  & email ) page.
      */
