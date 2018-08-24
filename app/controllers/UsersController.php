@@ -8,7 +8,8 @@ use App\Core\Validator;
 use App\Core\Message;
 use App\Models\User;
 
-class UsersController {
+class UsersController 
+{
     /**
      * POST add-phone form handler
      * 
