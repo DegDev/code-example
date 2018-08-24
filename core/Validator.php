@@ -5,7 +5,8 @@ namespace App\Core;
 use App\Models\User;
 use App\Core\Message;
 
-class Validator {
+class Validator 
+{
     /**
      * All possible validators
      *
