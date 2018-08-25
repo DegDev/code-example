@@ -6,7 +6,7 @@
 
     <div class="col-md-4 mx-auto phone-card" >
 
-        <h7 class="phone-card-h"> Add your phone number </h7>
+        <h6 class="phone-card-h"> Add your phone number </h6>
 
 
 
