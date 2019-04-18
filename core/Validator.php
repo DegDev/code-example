@@ -48,10 +48,10 @@ class Validator
         // Split parameters, and sub-parameters
         foreach ($params as $name => $value) {
 
-            $validation_criterias = explode('|', $value);
+            $validationCriterias = explode('|', $value);
 
             //Making validation for each parameter and sub-parameter
-            foreach ($validation_criterias as $criteria) {
+            foreach ($validationCriterias as $criteria) {
 
                 // If there is Unknown validator, throw exception.
                 if (!in_array($criteria, static::$validators)) {
